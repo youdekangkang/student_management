@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99a5f863-b978-4c39-9a82-8e12bff28c84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/front/node_modules/.bin/nanoid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/.bin/nanoid.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/.bin/nanoid.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/helpers/lib/helpers/asyncIterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/lib/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/runtime/node_modules/regenerator-runtime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/runtime/node_modules/regenerator-runtime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/runtime/node_modules/regenerator-runtime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/runtime/node_modules/regenerator-runtime/path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@babel/runtime/node_modules/regenerator-runtime/runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/ansi-styles/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/ansi-styles/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/ansi-styles/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/ansi-styles/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/chalk/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/chalk/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/chalk/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/chalk/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/chalk/source/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/chalk/source/templates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/chalk/source/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/conversions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-name/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-name/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-name/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-name/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/has-flag/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/has-flag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/has-flag/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/has-flag/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/has-flag/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/supports-color/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/supports-color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/supports-color/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/supports-color/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/supports-color/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/ansi-styles/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/ansi-styles/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/ansi-styles/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/ansi-styles/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/chalk/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/chalk/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/chalk/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/chalk/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/chalk/source/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/chalk/source/templates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/chalk/source/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-convert/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-convert/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-convert/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-convert/conversions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-convert/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-convert/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-convert/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-name/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-name/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-name/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/color-name/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/has-flag/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/has-flag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/has-flag/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/has-flag/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/has-flag/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/getCurrentRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/getHashDigest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/getOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/getRemainingRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/hash/BatchedHash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/hash/md4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/hash/wasm-hash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/interpolateName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/isUrlRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/parseQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/parseString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/stringifyRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/lib/urlToRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/loader-utils/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/supports-color/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/supports-color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/supports-color/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/supports-color/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/supports-color/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/compiler.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/cssModules.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/cssModules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/descriptorCache.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/descriptorCache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/exportHelper.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/exportHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/formatError.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/formatError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/hotReload.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/hotReload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/pitcher.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/pitcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/pluginWebpack4.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/pluginWebpack4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/pluginWebpack5.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/pluginWebpack5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/resolveScript.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/resolveScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/select.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/styleInlineLoader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/styleInlineLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/stylePostLoader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/stylePostLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/templateLoader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/templateLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/util.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/@vue/cli-service/node_modules/vue-loader-v16/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ansi-html-community/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ansi-html-community/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ansi-html-community/bin/ansi-html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ansi-html-community/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ansi-html-community/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ansi-regex/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/asn1/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/UPGRADE_GUIDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/dist/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/dist/axios.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/dist/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/dist/axios.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/adapters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/adapters/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/adapters/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/cancel/Cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/cancel/CancelToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/cancel/isCancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/Axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/InterceptorManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/buildFullPath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/createError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/dispatchRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/enhanceError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/mergeConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/settle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/core/transformData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/env/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/env/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/buildURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/combineURLs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/deprecatedMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/isAbsoluteURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/isAxiosError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/isURLSameOrigin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/normalizeHeaderName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/parseHeaders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/spread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/helpers/validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/axios/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/caniuse-lite/data/features/css-autofill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/caniuse-lite/data/features/css-lch-lab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/array-buffer-non-extensible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/array-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/clear-error-stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/error-stack-installable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/function-apply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/function-call.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/function-uncurry-this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/normalize-string-argument.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/object-is-extensible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/core-js/internals/object-is-prototype-of.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/is-fullwidth-code-point/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/lines-and-columns/build/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/lines-and-columns/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/async/index.browser.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/async/index.browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/async/index.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/async/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/async/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/async/index.native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/async/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/bin/nanoid.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/index.browser.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/index.browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/index.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/index.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/index.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/nanoid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/non-secure/index.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/non-secure/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/non-secure/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/non-secure/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/url-alphabet/index.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/url-alphabet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/nanoid/url-alphabet/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/ansi-regex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/ansi-regex/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/ansi-regex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/ansi-regex/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/strip-ansi/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/strip-ansi/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/strip-ansi/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/strip-ansi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/ora/node_modules/strip-ansi/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-angular.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-babel.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-espree.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-flow.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-glimmer.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-graphql.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-html.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-markdown.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-meriyah.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-postcss.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-typescript.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/parser-yaml.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/esm/standalone.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/parser-babel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/parser-espree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/prettier/parser-meriyah.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/regenerator-runtime/runtime-module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/shell-quote/.github/workflows/nodejs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/shell-quote/security.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/source-map-support/register-hook-require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/string-width/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/dist/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/dist/vuex.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/dist/vuex.esm.browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/dist/vuex.esm.browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/dist/vuex.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/dist/vuex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/dist/vuex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/dist/vuex.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/types/helpers.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/types/logger.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/vuex/types/vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/webpack-dev-server/node_modules/is-fullwidth-code-point/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/webpack-dev-server/node_modules/is-fullwidth-code-point/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/webpack-dev-server/node_modules/is-fullwidth-code-point/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/node_modules/webpack-dev-server/node_modules/is-fullwidth-code-point/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="gitlabS6/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="S5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../infoSystem" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="S5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

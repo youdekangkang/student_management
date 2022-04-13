@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试一下json在网页上输出</title>
+</head>
+<body>
+
+<script type="text/javascript">
+    var student={id:19321124,
+        name:"Xiezhixuan",
+        sex:"男"};
+
+    console.log(student);
+
+    var jsonStr=JSON.stringify(student);
+    var jsonObj=JSON.parse(jsonStr);
+
+    console.log(jsonStr);
+    console.log(jsonObj);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+#app {
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+}
+.header img{
+    height: 100px;
+    width: 300px;
+}
+.header{
+    height: 200px;
+}
+.logo{
+    height: 70px;
+    width: 350px;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+}
+.title{
+    font-size: 50px;
+    font-family: "Helvetica Neue";
+    color: aliceblue;
+}
+.header{
+    background: #409EFF;
+}

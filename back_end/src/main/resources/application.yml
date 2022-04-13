@@ -1,0 +1,36 @@
+spring:
+  application:
+    name: EducationalCoursesCatalog
+
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/education?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true&useSSL=false&allowPublicKeyRetrieval=true
+    username: root
+    password: 123456
+
+# 全局的id生成策略
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+
+#文件上传
+file:
+  #静态资源对外暴露的访问路径
+  staticAccessPath: http://localhost:${server.port}/file/
+  #静态资源实际存储路径
+  uploadFolder: syllabus/
+
+  servlet:
+    context-path:
+
+    multipart:
+    enabled: true
+    max-file-size: 100mb
+    max-request-size: 100mb
+
+server:
+  port: 8081
+  address: 0.0.0.0

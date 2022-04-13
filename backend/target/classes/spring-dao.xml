@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context  http://www.springframework.org/schema/context/spring-context.xsd
+
+">
+
+    <context:property-placeholder location="classpath:database.properties"/>
+
+
+<!--    <bean id="c3P0PooledDataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">-->
+<!--        &lt;!&ndash; 配置连接池属性 &ndash;&gt;-->
+<!--        <property name="driverClass" value="${jdbc.driver}"/>-->
+<!--        <property name="jdbcUrl" value="${jdbc.url}"/>-->
+<!--        <property name="user" value="${jdbc.username}"/>-->
+<!--        <property name="password" value="${jdbc.password}"/>-->
+<!--        &lt;!&ndash; c3p0连接池的私有属性 &ndash;&gt;-->
+<!--        <property name="maxPoolSize" value="30"/>-->
+<!--        <property name="minPoolSize" value="10"/>-->
+<!--        &lt;!&ndash; 关闭连接后不自动commit &ndash;&gt;-->
+<!--        <property name="autoCommitOnClose" value="false"/>-->
+<!--        &lt;!&ndash; 获取连接超时时间 &ndash;&gt;-->
+<!--        <property name="checkoutTimeout" value="10000"/>-->
+<!--        &lt;!&ndash; 当获取连接失败重试次数 &ndash;&gt;-->
+<!--        <property name="acquireRetryAttempts" value="2"/>-->
+<!--    </bean>-->
+
+    <bean id="druidDataSource" class="com.alibaba.druid.pool.DruidDataSource">
+        <property name="driverClassName" value="${jdbc.driverClass}"/>
+
+        <!-- basic properties: url、user、password -->
+        <property name="url" value="${jdbc.connectionURL}"/>
+        <property name="username" value="${jdbc.username}"/>
+        <property name="password" value="${jdbc.password}"/>
+
+        <!-- num of connections in pool -->
+        <property name="initialSize" value="${jdbc.pool.init}"/>
+        <property name="minIdle" value="${jdbc.pool.minIdle}"/>
+        <property name="maxActive" value="${jdbc.pool.maxActive}"/>
+
+        <!-- timeout -->
+        <property name="maxWait" value="60000"/>
+
+        <!-- others: -->
+        <property name="timeBetweenEvictionRunsMillis" value="60000"/>
+        <property name="minEvictableIdleTimeMillis" value="300000"/>
+        <property name="validationQuery" value="${jdbc.testSql}"/>
+        <property name="testWhileIdle" value="true"/>
+        <property name="testOnBorrow" value="false"/>
+        <property name="testOnReturn" value="false"/>
+        <property name="filters" value="stat"/>
+
+    </bean>
+
+
+
+
+
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="druidDataSource"/>
+        <property name="configLocation" value="classpath:mybatis-config.xml"/>
+    </bean>
+
+
+<!--    已被后来者淘汰-->
+    <bean id="sessionTemplate" class="org.mybatis.spring.SqlSessionTemplate">
+        <constructor-arg name="sqlSessionFactory" ref="sqlSessionFactory"/>
+    </bean>
+
+
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="com.xzx.dao" />
+    </bean>
+
+</beans>
